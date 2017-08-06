@@ -1,5 +1,4 @@
-# hackthon
-MoMath Hackathon 2017: Picture Fun
+# MoMath Hackathon 2017: Picture Fun
 
 Project category: Math Square behavior
 Team members: Zhendong Qin
