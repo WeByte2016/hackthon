@@ -10,6 +10,6 @@ The Submission:
 This project includes a javascript frontend and an ipython notebook backend. Math used in the project are PCA and SVC. The project is oriented for general audiences in the museum. 
 
 Future Direction:
-Due to the limited time in the hackathon, the program uses the existing sample face images in sklearn. Those images and the scratch on the touch screen are not very good match. We can use image library of foods, shapes, and other relative simple shapes in the future, and the result should be better.
+Due to the limited time in the hackathon, the program uses the existing sample face images in sklearn. Those images and the scratch on the touch screen are not very good match. We can use image library of food, toy and other relative simple shapes in the future, and the result should be better.
 
 
